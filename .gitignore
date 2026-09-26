@@ -1,0 +1,5 @@
+# 忽略本地临时文件
+*.conv.mp3
+__pycache__/
+*.pyc
+.DS_Store
